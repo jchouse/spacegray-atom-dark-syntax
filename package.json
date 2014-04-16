@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "0.0.0",
   "description": "A short description of your syntax theme",
-  "repository": "https://github.com/jchouse/spaceatom-syntax",
+  "repository": "https://github.com/jchouse/spacegray-atom-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
