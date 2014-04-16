@@ -1,5 +1,7 @@
-# spaceatom-syntax theme
+# SpaceAtom syntax theme
 
-Minimalistik theme for atom
+Taking care of every detail
 
-(http://yadi.sk/d/pmJ7yS6LMZ3A3)
+Minimalistik theme for atom. Best use with `spacegray-atom-dark-syntax`.
+
+(http://img-fotki.yandex.ru/get/9746/54504136.7/0_de60f_e2ce8495_orig.png)
