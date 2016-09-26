@@ -2,7 +2,7 @@
   "name": "spacegray-atom-dark-syntax",
   "theme": "syntax",
   "version": "1.1.1",
-  "description": "A short description of your syntax theme",
+  "description": "Minimalistic theme for atom. Best used with spacegray-atom-dark-ui",
   "repository": {
     "type": "git",
     "url": "https://github.com/jchouse/spacegray-atom-dark-syntax"
@@ -11,7 +11,7 @@
   "engines": {
     "atom": ">0.50.0"
   },
-  "readme": "# SpaceAtom syntax theme\n\nTaking care of every detail\n\nMinimalistik theme for atom. Best use with `spacegray-atom-dark-ui`.\n\n![image](http://img-fotki.yandex.ru/get/9746/54504136.7/0_de60f_e2ce8495_orig.png)\n",
+  "readme": "# SpaceAtom syntax theme\n\nTaking care of every detail\n\nMinimalistic theme for atom. Best use with `spacegray-atom-dark-ui`.\n\n![image](http://img-fotki.yandex.ru/get/9746/54504136.7/0_de60f_e2ce8495_orig.png)\n",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/jchouse/spacegray-atom-dark-syntax/issues"
