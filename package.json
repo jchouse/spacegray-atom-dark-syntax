@@ -16,11 +16,5 @@
   "bugs": {
     "url": "https://github.com/jchouse/spacegray-atom-dark-syntax/issues"
   },
-  "homepage": "https://github.com/jchouse/spacegray-atom-dark-syntax",
-  "_id": "spacegray-atom-dark-syntax@0.1.4",
-  "dist": {
-    "shasum": "45b0dab44ec58e386ad0cd09b4e0408408764da3"
-  },
-  "_resolved": "/var/folders/l8/nxwftfg50v193tjvbqw4tkq00000gp/T/d-11456-21361-1mpbml/package.tgz",
-  "_from": "/var/folders/l8/nxwftfg50v193tjvbqw4tkq00000gp/T/d-11456-21361-1mpbml/package.tgz"
+  "homepage": "https://github.com/jchouse/spacegray-atom-dark-syntax"
 }
