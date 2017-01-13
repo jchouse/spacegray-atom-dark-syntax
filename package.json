@@ -9,7 +9,7 @@
   },
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">1.13.0"
   },
   "readme": "# SpaceAtom syntax theme\n\nTaking care of every detail\n\nMinimalistic theme for atom. Best use with `spacegray-atom-dark-ui`.\n\n![image](http://img-fotki.yandex.ru/get/9746/54504136.7/0_de60f_e2ce8495_orig.png)\n",
   "readmeFilename": "README.md",
